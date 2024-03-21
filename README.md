@@ -41,9 +41,9 @@ Usage screenshots:
 ![childhood_img](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood2.png?raw=true "Childhood Screenshot 2"))
 
 
-![childhood_img](https://github.com/HermienvanStaden/gitTask/blob/main/Images/Screenshot%20helloWorld.png?raw=true
+![childhood_img](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood3.png?raw=true
 
-![childhood_img](https://github.com/HermienvanStaden/gitTask/blob/main/Images/Screenshot%20helloWorld.png?raw=true "helloWorld usage"))
+![childhood_img](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood3.png?raw=true "Childhood Screenshot 3"))
 
 ## Authors
 
