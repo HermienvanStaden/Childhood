@@ -41,9 +41,10 @@ Usage screenshots:
 ![childhood_img2](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood2S.png) "Childhood Screenshot 2"))
 
 
-![childhood_img](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood3.png
+![childhood_img](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood3S.png
 
-![childhood_img3](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood3.png) "Childhood Screenshot 3"))
+![childhood_img3](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood3S.png) "Childhood Screenshot 3"))
+
 
 ## Authors
 
