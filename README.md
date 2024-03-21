@@ -31,14 +31,14 @@ Type [http ](https://hermienvanstaden.github.io/Childhood) into searchbox of Int
 
 Usage screenshots:
 
-![childhood_img](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood1S.png?raw=true)
+![childhood_img](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood1S.png
 
-![childhood_img1](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood1S.png?raw=true) "Childhood Screenshot 1"))
+![childhood_img1](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood1S.png) "Childhood Screenshot 1"))
 
 
-![childhood_img](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood2.png
+![childhood_img](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood2S.png
 
-![childhood_img2](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood2.png) "Childhood Screenshot 2"))
+![childhood_img2](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood2S.png) "Childhood Screenshot 2"))
 
 
 ![childhood_img](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood3.png
