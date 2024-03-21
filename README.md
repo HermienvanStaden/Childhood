@@ -31,9 +31,9 @@ Type [http ](https://hermienvanstaden.github.io/Childhood) into searchbox of Int
 
 Usage screenshots:
 
-![childhood_img](https://github.com/HermienvanStaden/gitTask/blob/main/Images/Screenshot%20helloWorld.png?raw=true
+![childhood_img](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood1.png
 
-![childhood_img](https://github.com/HermienvanStaden/gitTask/blob/main/Images/Screenshot%20helloWorld.png?raw=true "helloWorld usage"))
+![childhood_img](https://github.com/HermienvanStaden/Childhood/blob/main/Images/Screenshot%20Childhood1.png) "Childhood Screenshot 1"))
 
 
 ![childhood_img](https://github.com/HermienvanStaden/gitTask/blob/main/Images/Screenshot%20helloWorld.png?raw=true
